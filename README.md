@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Full Stack Developer with over 4 years of hands-on experience, I'm skilled at turning ideas into seamless web applications. My skills includes React.js, Next.js, and Node.js, along with creating responsive designs that focus on user experience and functionality. I'm passionate about creating efficient, scalable solutions, whether it's integrating complex APIs or enhancing performance to improve user experience. At Plaqad Limited, I led projects that increased user engagement by 30%, a milestone I’m really proud of. I enjoy working closely with teams, tackling real-world challenges, and delivering projects that have a real impact.
+I am a Full Stack Developer with over 5+ years of hands-on experience, I'm skilled at turning ideas into seamless web applications. My skills includes React.js, Next.js, and Node.js, along with creating responsive designs that focus on user experience and functionality. I'm passionate about creating efficient, scalable solutions, whether it's integrating complex APIs or enhancing performance to improve user experience. I enjoy working closely with teams, tackling real-world challenges, and delivering projects that have a real impact.
 
 
 # 💻 Tech Stack:
